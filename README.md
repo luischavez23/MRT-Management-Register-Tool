@@ -1,3 +1,5 @@
 # MRT-Management-Register-Tool
 
-Browser based register application that interacts with a PostgreSQL database. Implemented in Python. Edited in Visual Studio Code.
+Desktop based register application that interacts with a PostgreSQL database. Implemented in Python. Edited in Visual Studio Code.
+
+This app tends to simplify the register and management process. 
