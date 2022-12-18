@@ -2,7 +2,7 @@
 
 Desktop based register application that interacts with a PostgreSQL database. Implemented in Python. Edited in Visual Studio Code.
 
-This app tends to simplify the register and management process. 
+This app tends to simplify the register and management process. It started with a simple excel as data base, and now it is migrating to the cloud.
 
 This is an open source project. 
 
