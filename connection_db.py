@@ -70,3 +70,8 @@ class Asset:
         finally:
             connection_db.close()
    
+   #What's next:
+
+   #Create an special word to get the all the silicons that have not been using for x time.
+
+   #The user nees to type something like this in the search page: noinuse silicons -2m 
