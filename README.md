@@ -6,7 +6,7 @@ This app tends to simplify the register and management process. It started with 
 
 This is an open source project...
 
-## How to Install and Run
+## How to Install and Run..
 ....
 
 ## Credits
