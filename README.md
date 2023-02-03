@@ -10,5 +10,5 @@ This is an open source project...
 
 ## Credits
 
-WORKING...
+[Pablo](https://github.com/luischavez23), [Patricio](https://github.com/PatrickAngel0208)
 
