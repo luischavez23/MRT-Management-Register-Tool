@@ -4,9 +4,8 @@ Desktop based register application that interacts with a PostgreSQL database. Im
 
 This app tends to simplify the register and management process. It started with a simple excel as data base, and now it is migrating to the cloud.
 
-This is an open source project...
+## How to Install and Run
 
-## How to Install and Run..
 
 ## Credits
 
