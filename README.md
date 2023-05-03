@@ -8,7 +8,7 @@ The tool's database was developed using PostgreSQL, providing a robust and relia
 
 With its combination of Python, PostgreSQL, and user-friendly interface, the Management Register Tool is an effective and efficient solution for organizations looking to manage and track their items.
 
-## Credits
+## Credits:
 
 [Pablo](https://github.com/luischavez23), [Patricio](https://github.com/PatrickAngel0208)
 
