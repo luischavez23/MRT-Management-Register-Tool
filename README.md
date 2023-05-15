@@ -1,6 +1,6 @@
 # MRT-Management-Register-Tool
 
-The Management Register Tool is a software solution that was developed using Python and PostgreSQL to help organizations effectively track and manage their items. This tool provides a centralized platform to store and access all of the organization's item-related information.
+The Management Register Tool is a software solution that was developed using Python and PostgreSQL to help organizations effectively track and manage their items. This tool provides a centralized platform to store and access all of the organization's item-related information...
 
 With the Management Register Tool, users can register, and manage detailed records for each item, including information such as location. The tool's user-friendly interface allows for easy navigation and management of records, and users can search and filter their items based on various criteria, such as location and date added.
 
