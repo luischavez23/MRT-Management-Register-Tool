@@ -6,7 +6,7 @@ With the Management Register Tool, users can register, and manage detailed recor
 
 The tool's database was developed using PostgreSQL, providing a robust and reliable platform for storing and retrieving information. Python was used for the development of the tool's logic and user interface, providing a flexible and efficient solution for managing the organization's items.
 
-With its combination of Python, PostgreSQL, and user-friendly interface, the Management Register Tool is an effective and efficient solution for organizations looking to manage and track their items.
+With its combination of Python, PostgreSQL, and user-friendly interface, the Management Register Tool is an effective and efficient solution for organizations looking to manage and track their items...
 
 ## Credits:
 
